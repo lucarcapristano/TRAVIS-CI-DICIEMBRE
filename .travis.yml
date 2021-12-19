@@ -16,7 +16,7 @@ deploy:
     # Skip cleanup so api_key.py and vendored dependencies are still there
     skip_cleanup: true
     keyfile: travis-net-dec-ff8aec372ec8.json
-    project: travis-net-de
+    project: travis-net-dec
     version: service-demo
     default: true
     on:
